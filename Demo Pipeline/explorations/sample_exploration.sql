@@ -11,7 +11,7 @@
 -- MAGIC %python
 -- MAGIC import sys
 -- MAGIC
--- MAGIC sys.path.append("/Workspace/Users/susanta.mohapatra@creditsaison-in.com/New Pipeline 2025-11-20 13:04-(2)")
+-- MAGIC sys.path.append("/Workspace/Users/susanta.mohapatra@creditsaison-in.com/DemoRepo/Demo Pipeline")
 
 -- COMMAND ----------
 
